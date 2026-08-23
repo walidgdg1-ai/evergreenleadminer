@@ -20,15 +20,15 @@
     "tenders": {
       "enabled": true,
       "mode": "remote-demand-with-idle-burst",
-      "weight": 0.8,
-      "min_slots_when_demanding": 16,
+      "weight": 0.7,
+      "min_slots_when_demanding": 14,
       "max_slots": 20,
       "repo": "walidgdg1-ai/tender-engine"
     },
     "gws": {
       "enabled": true,
-      "weight": 0.2,
-      "min_slots_when_demanding": 4,
+      "weight": 0.3,
+      "min_slots_when_demanding": 6,
       "max_slots": 10,
       "repo": "walidgdg1-ai/evergreenleadminer"
     }
