@@ -688,9 +688,9 @@
       "fleet_run_id": "32677302433-1",
       "provider": "github",
       "records": 40,
-      "reviewed_at": null,
-      "status": "pending",
-      "verification_remaining": 1,
+      "reviewed_at": "2026-08-24T03:58:49+00:00",
+      "status": "verified_search_pass",
+      "verification_remaining": 0,
       "verification_total": 40
     },
     {
@@ -700,9 +700,11 @@
       "provider": "github",
       "records": 2,
       "reviewed_at": null,
-      "status": "pending"
+      "status": "pending",
+      "verification_remaining": 2,
+      "verification_total": 2
     }
   ],
-  "pending_records": 1803,
+  "pending_records": 1802,
   "schema_version": 1
 }
