@@ -5,31 +5,31 @@
     "reason": "hold_marginal_throughput"
   },
   "coverage_delta": {
-    "tasks_completed": 5,
+    "tasks_completed": 6,
     "tasks_failed_or_missing": 0
   },
-  "duplicates": 0,
+  "duplicates": 1,
   "errors": 0,
-  "gpt_review_added": 2,
-  "gpt_review_pending": 1802,
+  "gpt_review_added": 1,
+  "gpt_review_pending": 1803,
   "new_unique": 0,
-  "next_backlog": 3,
+  "next_backlog": 2,
   "owned_site_or_chain_rejects": 0,
   "provider": "github",
   "provider_usage": {
     "github": {
       "active_observed_before": 0,
-      "limit": 5,
+      "limit": 6,
       "queued_observed_before": 0,
-      "selected_workers": 5
+      "selected_workers": 6
     }
   },
   "qualified_for_strict_review": 2,
   "raw_discovered": 2,
-  "review_batch": "gpt/gws_review/2026-08-24T115640Z_32723325867-1.jsonl",
-  "run_id": "32723325867-1",
+  "review_batch": "gpt/gws_review/2026-08-24T121752Z_32723682374-1.jsonl",
+  "run_id": "32723682374-1",
   "schema_version": 1,
   "status": "CYCLE_COMPLETE",
-  "uncertain": 0,
-  "updated_at": "2026-08-24T11:56:40+00:00"
+  "uncertain": 1,
+  "updated_at": "2026-08-24T12:17:52+00:00"
 }
