@@ -281,18 +281,21 @@
       "verification_status": "MEDIUM"
     },
     "hub:1000164": {
-      "certificate_digest": "23cc2ac51d7117b22c4860b880ebb8ec2b9bdb76e1f9fc792ea0aee1fcb1b606",
-      "last_verified": "2026-08-16T11:07:45+00:00",
-      "outcome": "UNCERTAIN",
+      "certificate_digest": "76a850faab46788c96435af29e617276aa5c55dec90cbab9af32531adf23940e",
+      "last_verified": "2026-08-25T11:01:57+00:00",
+      "outcome": "MEDIUM",
       "owned_website": "",
-      "reason": "OWNERSHIP_CANDIDATE_AMBIGUOUS",
-      "semantic_resolution_attempt": 2,
-      "semantic_resolution_fingerprint": "e2d60dc61356118d499fec97d07f128f9d0067da63e21042c6bccb29a2f96fe2",
-      "semantic_resolution_route": "STRICT_NO_SITE_RECHECK",
-      "source_batch": "gpt/gws_review/2026-08-14T235354Z_31851791875-1.jsonl",
-      "source_fingerprint": "03d99bf6a2250a39f725b2e27d7d99767f654a83e478f827191399d4462e8e38",
+      "reason": "IDENTITY_RESOLVED_NOT_STRONG_ENOUGH_FOR_HIGH",
+      "run_quarantine_id": null,
+      "run_quarantine_status": null,
+      "scope_reason": "NO_DETERMINISTIC_SCOPE_BLOCK",
+      "semantic_resolution_attempt": 0,
+      "semantic_resolution_fingerprint": "",
+      "semantic_resolution_route": "",
+      "source_batch": "gpt/gws_review/2026-08-22T011327Z_32538493186-1.jsonl",
+      "source_fingerprint": "b8e93cfae9e11a8515dea8a7e5ff836962ef2c3a5a4287e58927aa7fe70f746f",
       "verification_provider": "openserp_ci_ownership_safe",
-      "verification_status": "UNCERTAIN"
+      "verification_status": "MEDIUM"
     },
     "hub:1000174": {
       "certificate_digest": "e0dcaae9589b1a1563ee01f5487cca9c3499b9a86005e7bddc899ae029b27a61",
@@ -1109,8 +1112,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16004186": {
-      "certificate_digest": "1fe136c054184305b5e39cff15ccc00bd8bba409a3ad65e37e40c7bec727aab4",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "6bfd4711100fc290bad83863d7593e72c7533542360f3f96eaf55e2d7f7ccb76",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -1228,8 +1231,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16004953": {
-      "certificate_digest": "d101f64b0e7191d802ace68888ae3c74f457700599de7a610c4bf65d0d406bf9",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "da7a58e8ccb43051723a5fb7d8c80bfe53fc653a8d30a9b65264d1667755ce4f",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -3008,8 +3011,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16010748": {
-      "certificate_digest": "e033522c5bc96d17c69784916e84e4ed6a0cbbbed0998ec3537f595b92e77338",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "f474ea48f73d42e861bcf108358ca242a5994661f428576f8803435b9777dcd5",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -3192,8 +3195,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16011877": {
-      "certificate_digest": "f811349f857eb2f9df3eacb10534d448baf378c0ae9a914844fad885c1729034",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "0a06b72099675c15ae583f743085a3515c6fa41778b7e9f6efd985049899008d",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -3990,8 +3993,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16016408": {
-      "certificate_digest": "53394456cc452996b551a6c744a918cbafc9812e89d887ec6c126fa0dbfdf730",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "a4db94bcc1e7dadc611b195a56dbe06cc7039a5a2abdc6114560b51e5c018939",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -4381,8 +4384,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16017592": {
-      "certificate_digest": "b9bda025bfcb5da80b1adfa15a134d542d0fca3baf862407e60e6e7e4cd57dfa",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "7f156da6b71aa4f2311a63b6b4677c84437a46aa0ee022e35b1dcbd766bcf101",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -4446,8 +4449,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16017670": {
-      "certificate_digest": "87898f4c2e0fbaa03e472074492a6fea37ffc2fea1fb64bf916df4ad6e8f1a31",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "61ee0d1b0da641e798111b9b329f6eddb994c49cd4a55bd3aef1983962b2a299",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -5026,8 +5029,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16022535": {
-      "certificate_digest": "2bea74af74096d4ccf9a7b3317fb5fa1c3c8a3bcc202a4dacd576c44072f5bce",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "5d80dcb85d8a20194ba31b6db5b10a3b62c7f4f7d0ff63e5c76196995bb024b2",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -5174,6 +5177,23 @@
       "semantic_resolution_route": "GPT_SEARCH_REVIEW",
       "source_batch": "gpt/gws_review/2026-08-22T043801Z_32550930426-1.jsonl",
       "source_fingerprint": "b7f5455508ef6a6a05efb90b3cdf809fc3b977e0d8ef19f1fe3b4d9b9b90ffbf",
+      "verification_provider": "openserp_ci_ownership_safe",
+      "verification_status": "UNCERTAIN"
+    },
+    "hub:16023408": {
+      "certificate_digest": "5330f870fdc859276cdd6d446bbbc61075dbe73ae620e28e810cb3422cb4ead6",
+      "last_verified": "2026-08-25T11:01:57+00:00",
+      "outcome": "UNCERTAIN",
+      "owned_website": "",
+      "reason": "OWNERSHIP_CANDIDATE_AMBIGUOUS",
+      "run_quarantine_id": null,
+      "run_quarantine_status": null,
+      "scope_reason": "NO_DETERMINISTIC_SCOPE_BLOCK",
+      "semantic_resolution_attempt": 0,
+      "semantic_resolution_fingerprint": "",
+      "semantic_resolution_route": "",
+      "source_batch": "gpt/gws_review/2026-08-18T183519Z_32166146427-1.jsonl",
+      "source_fingerprint": "def0600012f1ce7538c815aae01aeab96ef92142e3e5e29836b1574ecb0607c2",
       "verification_provider": "openserp_ci_ownership_safe",
       "verification_status": "UNCERTAIN"
     },
@@ -6144,8 +6164,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16028352": {
-      "certificate_digest": "ad8d11d292bd9d069b0bd5150021acb5d1dfee004284e5c751d73a62804e4d05",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "dfc228410b8ce9f45061b6c0c36a5f03d994d9c85c1bb0fd5d71d681dfcaaf14",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -6385,8 +6405,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16028718": {
-      "certificate_digest": "df03b5be27b3e2369d702a50976e025482e2ad203707edb8c895ab7758994274",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "2e6d2a0508d795fa0201066225726c9224ea4f3bbc2021593fe2a519f423399a",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -7443,8 +7463,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16033746": {
-      "certificate_digest": "81da747e900a18964fabebc6bfe1707790a9b2dba93176e71b17bab8afbc124c",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "c6b83514c2b7453ded120d2baf939d7fa38d27ef76ea933996abea5061d59a49",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -7890,8 +7910,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16035558": {
-      "certificate_digest": "3c025da4676d892645ecf67e515c2e9423c7dce9f0b4522e1a9f39e17045f950",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "3c806f9fde2cc6eb768f27fd7840f6c2b690b8513be6646688614df68183bd56",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -8073,8 +8093,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16036610": {
-      "certificate_digest": "e8217d584c1e3a959c7a21da72b5bc1936694b3a270dbb7598921a7914e31839",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "3947ee96ecf61bc52c90d0da49da6163436ea0e7ba41639899b642902bac55e5",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -8141,8 +8161,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16037036": {
-      "certificate_digest": "ae5706fb1e3add88413a4364b3791ee43e47c9bd6c481c8196fe27dc344d7536",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "cb01640fb92d019cef31ce2aa6786bd93cef5e01cff9b3e6f968597c913d9c78",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -8390,8 +8410,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16037989": {
-      "certificate_digest": "42f1b9fecc21cbb06e6fe19271c00ba6aac14fb4e05588a77c2db3271538ae8a",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "691e474d3fe99e98dc0538f5ec70361c24e30dc00fd21a30e5f48a38ed8cd841",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -8620,8 +8640,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16038728": {
-      "certificate_digest": "8ea151a98a2a67f1b1ce826d1aad248d796760654844cd97485c16c8740c44b6",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "13acb3516b4a03f6fa922de9b5366f3ccd6baed79a48a7afbb1e7c1a9a05d5d3",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -9384,8 +9404,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16041825": {
-      "certificate_digest": "74bb5c9ba33d96469b88021f9a089fcab647d046e8b5e231020ffdc6b3d5e40c",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "5d21257180a26afbea6e9f7f91cc8027aea9d9c3530f62380a09fecf80b93462",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -9485,8 +9505,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16042063": {
-      "certificate_digest": "7839fc41683d3b5aae25beea8af813262cb2f4fae1ece4b754d5c46fc6e9f144",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "4dabf3c1d5bd8aac4c76553276d9140bc4528b2f3496853b7d4a0236b52aad09",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -10278,11 +10298,11 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16044090": {
-      "certificate_digest": "950212bf881c43dc8dd9960ab14bdcbc2d34f4b23c29f725afb51a784e589c38",
-      "last_verified": "2026-08-25T10:34:30+00:00",
-      "outcome": "REVIEW",
+      "certificate_digest": "08fa8ffb0664d73d3b6c9d554421ddaa429e74778421da74436bf1ada929dc0d",
+      "last_verified": "2026-08-25T11:01:57+00:00",
+      "outcome": "UNCERTAIN",
       "owned_website": "",
-      "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
+      "reason": "OWNERSHIP_CANDIDATE_AMBIGUOUS",
       "run_quarantine_id": null,
       "run_quarantine_status": null,
       "scope_reason": "NO_DETERMINISTIC_SCOPE_BLOCK",
@@ -10292,7 +10312,7 @@
       "source_batch": "gpt/gws_review/2026-08-19T021430Z_32207253845-1.jsonl",
       "source_fingerprint": "fa56aa7e0e0aaa25ade7e223a327a5d8311f8a5f8390579f493f5a0cdec021dc",
       "verification_provider": "openserp_ci_ownership_safe",
-      "verification_status": "ERROR_RETRYABLE"
+      "verification_status": "UNCERTAIN"
     },
     "hub:16044091": {
       "certificate_digest": "63446417565993eeca1fed487b9da6529c3dd670e56c0ec5473428fda1b37195",
@@ -10346,8 +10366,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16044104": {
-      "certificate_digest": "1afcc6ac85343602ecb04743fcfc87634e8473a5d3761e3c508513d172c28633",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "f1eb02ab531f9c5ec955155de4fc73816bef6f9712cebdd281c165958899366e",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -11911,8 +11931,8 @@
       "verification_status": "REJECT"
     },
     "hub:16050523": {
-      "certificate_digest": "85945d3f85523858396fd4ee70e170ed060dc1b989466f83bb59e955e3ba01d8",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "15380fe4daef4e66988e6f7579b84c32907ce302b862dd5ec7bc63ea459fe65d",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -11928,8 +11948,8 @@
       "verification_status": "ERROR_RETRYABLE"
     },
     "hub:16050546": {
-      "certificate_digest": "7d6d103b052e9eeba10a830d007f25bcef795d1477969a4d6d8dda2aac3e741e",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "f81dc5ba675d7217c5cb1bd9a293d180191d8f94645b00703f27efc96be1dc98",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -12414,8 +12434,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16052175": {
-      "certificate_digest": "4dea03cda1cea97498e0831a0991e62edf51f093ea34761f408eb9fd67bf6d7c",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "de71fa5526bb5844710397b7be033e76e2ba83ff68108bff0a0af2ee879bec7d",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -12640,8 +12660,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16052779": {
-      "certificate_digest": "a503c4eec9af2e4eaead941087268cb3aa2c7163ba1b930bfb93a305e55f508d",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "91721eb2777b70c5b597d331bf9b240449d5099c0c2049af556124379ac806e0",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -13672,8 +13692,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16057028": {
-      "certificate_digest": "7bb9b02d4554e34525f3c6d21958ebb3c4450356c22ddfea50a79598943ac4f1",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "6a9b5aa19a577d04575e120b0068c7fbb9798e6336c2d312c1b69cc2f8741ea5",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -13819,8 +13839,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16057577": {
-      "certificate_digest": "53c552296e9b79c3930e4d9c80fae42e1938e92e997dd88e6f66cdf05de540ab",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "c8c1593708bfa156695e5acea8e1a554cf4a20b63d42b2dd9504311210a593cd",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -14446,8 +14466,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16059130": {
-      "certificate_digest": "76b1303f01a9338ebc8a897685a6e0b63557c661550b8cb1be380e582eeebc19",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "612fa46b0a7e551b4bd6671519f33abde54c22efcf97c624a686344d29054921",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -14802,8 +14822,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16060168": {
-      "certificate_digest": "25ccf052bb58a9a77acd392bc169a9842d974b624d3671faa094a7831ac6477a",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "92617d1c9f825019dadd224b07624251a45a9d689d8d2219f730d2983d4e4306",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -14870,8 +14890,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16060302": {
-      "certificate_digest": "ff63e92c43e5cc6ecb8a23f50ac6ac8d818f0db130bf33b453897e9e45bb5ad6",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "03e9eba0ef6ea918690127e55cb205d7f8ea24449131c7643ecfe01006acc5f6",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -14949,8 +14969,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16060372": {
-      "certificate_digest": "16fc7a6d566a758b1645a84268188946fa22f8d080a876dc94bb9d76189ef91b",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "e1dcd40bc9b21288a9e100c8ac1e5fe70b10e5c86676f63cc93413fc21c6b39a",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -16359,8 +16379,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16062655": {
-      "certificate_digest": "2e4077597322ce6b37deba6d05d96909b2c0358d1db54b2824e910d77f3dd869",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "1bcf426004dae3f137f849857b87bc605801d1a02e85b473e7e8e8fd0b0f1182",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -16458,8 +16478,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16062828": {
-      "certificate_digest": "6ee11efcc2f78aa21c4261f642b5362bf08ae6966dbdf53fd55fc2377ebb7baf",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "c4e30d4bd18f12d57af7c4f22695dc5b018f3bca0c051b43b078fc99ed0bd4c8",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -16843,8 +16863,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16063650": {
-      "certificate_digest": "781035fb1f461027924031773e73c2121f3ee539febf1f7adb0b32a233691c75",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "102807b2f21ca5158d7e53336ce74c5b2480be73d5e4e5e037338bcb7549cd89",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -17472,8 +17492,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16064955": {
-      "certificate_digest": "1dedef10ab39ee81d993e8922c16c777cded6bda58f93beb52943bfeb211650c",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "960b3a4bbfba27a7898cbc3b1e593659cdac0a4b4326a0a9b446dbf9d4ff02fc",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -17785,8 +17805,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16065387": {
-      "certificate_digest": "456e017afafa1381e153394e4a302f56017949f401d5ce8fcbb324548651d998",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "e5db6ad5e961a3027348bc110279c04028800d313090d573cdbf5899b5bbc52c",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -18075,6 +18095,23 @@
       "verification_provider": "openserp_ci_ownership_safe",
       "verification_status": "UNCERTAIN"
     },
+    "hub:16065921": {
+      "certificate_digest": "c8eda2eda030d62477164ee148543be68f1407f282dc972f7ea01db320e4b76b",
+      "last_verified": "2026-08-25T11:01:57+00:00",
+      "outcome": "UNCERTAIN",
+      "owned_website": "",
+      "reason": "PLAUSIBLE_DOMAIN_UNRESOLVED",
+      "run_quarantine_id": null,
+      "run_quarantine_status": null,
+      "scope_reason": "NO_DETERMINISTIC_SCOPE_BLOCK",
+      "semantic_resolution_attempt": 0,
+      "semantic_resolution_fingerprint": "",
+      "semantic_resolution_route": "",
+      "source_batch": "gpt/gws_review/2026-08-18T183519Z_32166146427-1.jsonl",
+      "source_fingerprint": "33f2be280f05628c23283696367a691985897a62a9a0112bc8e7dc329ed7dbb5",
+      "verification_provider": "openserp_ci_ownership_safe",
+      "verification_status": "UNCERTAIN"
+    },
     "hub:16065989": {
       "certificate_digest": "32b830fe570b0880d236ea229cf3773a4bfd23a38e9a1607c2c47278a8d7b8ef",
       "last_verified": "2026-08-18T20:41:37+00:00",
@@ -18208,8 +18245,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16066443": {
-      "certificate_digest": "a8413a09103cb804884d6c724b4effb611f3c833d8851c52ee6687e71bb7fa37",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "4636a2321b24f5b7af66b7f4bd48f8cafd06ccf0aba999c4cec2671f426800d0",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -18631,8 +18668,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16066918": {
-      "certificate_digest": "7146e762b6b0d7b6c27172564597451a0a609cac2de09cd9f56e5e472985b33d",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "48cf12c1d365616799c41bdb08f8a1c2f5344cfbb3f17b7fcf6e369e39b7e2ed",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -19513,8 +19550,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16068030": {
-      "certificate_digest": "5d0420462c738f7d078e1b5ea6ca5153db273813d97a5baeee1f26819a2a1a6d",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "c9d61288636c41753c65141106182970c5982228ec1efcf49d4e92d3fd659dd8",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -19547,8 +19584,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16068034": {
-      "certificate_digest": "7cca4789931daddfbb1ef438f72aaa56182ebd630ea6da832bc2891ec73952b9",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "1e2a77c1ebd386b4d6242b952754af68f7de9677d3d6b14ebdcbb0153089bee5",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -20013,6 +20050,23 @@
       "source_fingerprint": "99a0cef472524d5cd2a8578c8ccf6516ba4de99585fabec7ee9eeb16b4322af1",
       "verification_provider": "openserp_ci_ownership_safe",
       "verification_status": "UNCERTAIN"
+    },
+    "hub:16068208": {
+      "certificate_digest": "5db65bf05de96c3202b9d91e34ac614ac21ff4a69c914f0e27b2932872937e1f",
+      "last_verified": "2026-08-25T11:01:57+00:00",
+      "outcome": "MEDIUM",
+      "owned_website": "",
+      "reason": "IDENTITY_RESOLVED_NOT_STRONG_ENOUGH_FOR_HIGH",
+      "run_quarantine_id": null,
+      "run_quarantine_status": null,
+      "scope_reason": "NO_DETERMINISTIC_SCOPE_BLOCK",
+      "semantic_resolution_attempt": 0,
+      "semantic_resolution_fingerprint": "",
+      "semantic_resolution_route": "",
+      "source_batch": "gpt/gws_review/2026-08-19T063911Z_32220161805-1.jsonl",
+      "source_fingerprint": "c3722131a5d04c3490cd067a7fc48b6e7b13789909f2f9b8529bdc8f5b9c2f94",
+      "verification_provider": "openserp_ci_ownership_safe",
+      "verification_status": "MEDIUM"
     },
     "hub:16068210": {
       "certificate_digest": "8983f4525d10cc48edb62cf1a71347271ca695c8d9c58ec5480b9b83ec896d27",
@@ -20823,8 +20877,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16068985": {
-      "certificate_digest": "d34fe04a2f12e7d9fe393484b69ccedb5609817635b4cdec9948d2b3fb13a8fa",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "01b2c855550d376c7baa5c17441ae8a6e4235741a311ad91f91816ce86f25cf7",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -21158,8 +21212,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16069407": {
-      "certificate_digest": "9b33e93c55f188efac941067d7a82593b45da491f069975755b51d0b5cf5e9af",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "3bb57e657f9029f8aa7efcbe328a2da434ad9fb969c6d0620bb44e1190ec0954",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS2",
@@ -21570,8 +21624,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16070461": {
-      "certificate_digest": "5e077c716aefa319e4107a84f8102262e658a6ac1a698959634fdd965d63ac0c",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "dd98e1f2f887568e0d9cbcf8da8b3b165c5eed0329f6a287930acf71fbf5ebf4",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -22239,8 +22293,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16070907": {
-      "certificate_digest": "13527eb9b2a314be69e73c73f0680a8de8f5de8ce7aa364c73850c3cfdc71110",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "b30de4562daa8de52bee86fdcb28f90d99ab968e13ec1efd12c0e456c790d893",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -22470,8 +22524,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16071045": {
-      "certificate_digest": "547683a46ebde113edaef478a2510fe0bf374bba451ad629f112f34d07e6fe5a",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "3b5df64b0e46a5cd46fe2c68595e9bb1fd9056a65432cf8ee914c5fd1a5b45f9",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -23141,8 +23195,8 @@
       "verification_status": "MEDIUM"
     },
     "hub:16071472": {
-      "certificate_digest": "7a084c67bcd45f77d5b1d8c5651711e211e576540d98dee720230e03aae5c3b1",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "c7f1b6bb3041d467f09d68bbe51fd73dc8939d078cec8083450fdba7aad7d9a3",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -23407,8 +23461,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16071756": {
-      "certificate_digest": "6f29dc417723886915b5058cb0be373781ba8d4a6e2814db9f97ec17c422dd73",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "3359915a8cf323d47ed33817c6ecffcb3ad225c1e5eaec133086b30f4678cdba",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -24124,8 +24178,8 @@
       "verification_status": "REJECT"
     },
     "hub:16072974": {
-      "certificate_digest": "cff01b4902916dbd96ce1c45a5bb24c3248dae847fb86c5bfa06538731a81ba4",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "a6c21b230eab7bb907e7e44c745efc5b52ccd2f6d8ebb47d26d35a9768eb9451",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -25022,8 +25076,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16073715": {
-      "certificate_digest": "ac5dbbc3dd2c1d60bcd0331ec791f60440af5808a297041f151ddc5496da1f16",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "3573bab2c0d653507ab67133d2817a08b6ac16e7cbed20570ec1064fea338b9c",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -25056,8 +25110,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16073720": {
-      "certificate_digest": "fff55bddb15c696c3439fea28fb51bb1c0e65c922c1c0b8b1a7945d92955fdc4",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "089a210336504fc16699a30902db691a572d4432f69c262c4a4dfdc3affa5583",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -25322,8 +25376,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:16074394": {
-      "certificate_digest": "e36209afa7b0ac45b574403489d753e32e7a9f6cd220d4f400c8a1d9cefd6824",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "ba6143767a2818217a9bbf8ce7d318d44bd9bafd0e663e8ed2124a17ea08359c",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -25339,8 +25393,8 @@
       "verification_status": "ERROR_RETRYABLE"
     },
     "hub:16074404": {
-      "certificate_digest": "4e852fa3d4ce7b96494343b1bbdc0c0b7cd80c60e093ce5df3d982eff644da93",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "d328d3086f266b7974ec3900fdf1478e7d9e7827420cbf592b17eb35d285d732",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS2",
@@ -25991,8 +26045,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:5000502": {
-      "certificate_digest": "0ba8ec24decb5edf77492c5ba74727665f9a794c01775b7adc8cc97f8738f4b4",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "b3afb72928a0693b72d8cd716986508931e1e51fe4e7e444998dd06bea49e98e",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -26248,6 +26302,23 @@
       "semantic_resolution_route": "",
       "source_batch": "gpt/gws_review/ownership_recall_31982166413.jsonl",
       "source_fingerprint": "d584e01d1da69968a91f2f0279e9f7985d30e42afa3b012eb19e016f05c6df89",
+      "verification_provider": "openserp_ci_ownership_safe",
+      "verification_status": "UNCERTAIN"
+    },
+    "hub:7000412": {
+      "certificate_digest": "b3f21f3d88282179822c530ca6c206ebc424631f3413eef28b11e7792d886199",
+      "last_verified": "2026-08-25T11:01:57+00:00",
+      "outcome": "UNCERTAIN",
+      "owned_website": "",
+      "reason": "OWNERSHIP_CANDIDATE_AMBIGUOUS",
+      "run_quarantine_id": null,
+      "run_quarantine_status": null,
+      "scope_reason": "NO_DETERMINISTIC_SCOPE_BLOCK",
+      "semantic_resolution_attempt": 0,
+      "semantic_resolution_fingerprint": "",
+      "semantic_resolution_route": "",
+      "source_batch": "gpt/gws_review/2026-08-18T233217Z_32194287077-1.jsonl",
+      "source_fingerprint": "0dfff700c1a97c1da525ab4ae431b13322cd1c12ad3e69b30f4f905a2905b9ab",
       "verification_provider": "openserp_ci_ownership_safe",
       "verification_status": "UNCERTAIN"
     },
@@ -27181,8 +27252,8 @@
       "verification_status": "UNCERTAIN"
     },
     "hub:9000381": {
-      "certificate_digest": "78ada66242095869045f9706d0343897217d8a678fea0ddec3fa37136c50cfd4",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "6095b648c121d42201c76e60dd7c555aeae1912fa25a235c493a3f026e3cd3a1",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -27263,8 +27334,8 @@
       "verification_status": "MEDIUM"
     },
     "overture:00147818-55e1-4527-a43c-05c0abb0cc8f": {
-      "certificate_digest": "8d8f1d89f1f1c9aa8ae8b7c3c232b8fa681c9a5784068e6afe85011dd5582ed5",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "04695bd8cc9b24a47ceaf1f7fe154b5e675e648b249f273e73bb13b9dd94d64e",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -28298,8 +28369,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:07a63a46-96f1-459a-a0be-29881b7b5995": {
-      "certificate_digest": "f6223538fec9fa5db0602ef4daa4336f62fa50ba1a6207a96638a39e706dd794",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "fb6d0eb5ec23eb47234c8b9c723daa1bb29fba99d20d3bbc4e712b128d83430a",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -28566,8 +28637,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:091cd7bc-c2d0-40c6-b963-a303ce5ea477": {
-      "certificate_digest": "5cd0677f92ae3bc4e87ae4fa14e0f048b69cb6acc7b7ec32c0a4d220e75436e8",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "fe22bb21e62bf1b897aa96ce8ff1552c2d59d09780b46a42c32eb51b7efa2e8e",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -29841,8 +29912,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:10cde1d7-3dfb-4d04-801a-2c61c354eee7": {
-      "certificate_digest": "08d32b8e6ffd871a68b09af81aa2079a89ad517039bddc2d646c9d435fcc7c7b",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "095f97cbae7c15eed7b9b7316415de0687c19fc0b93ddfc48c6760165bc24a29",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -30931,11 +31002,11 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:18996088-bd78-4d1f-8373-e6b279f4b314": {
-      "certificate_digest": "3d64d802a478ed286eef90083e11907f5ef6e8507fa52fb185017a97ead28b05",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "0180f3d420d8a1ddb09577bb95e309e34ee95da7532edd5f89f7c426e01d4850",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
-      "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
+      "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS2",
       "run_quarantine_id": null,
       "run_quarantine_status": null,
       "scope_reason": "NO_DETERMINISTIC_SCOPE_BLOCK",
@@ -32522,8 +32593,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:23e1512e-fb9c-45df-bc21-052eac9807c1": {
-      "certificate_digest": "fdb2e383105ff3317d4586d12d700480518a6195413ac0fd0c20cd44d6f54b6d",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "f0ba39c3e03292db11a35a8e390ddd34a2e72a58db808fc5cd46da2f32f77c23",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -32757,8 +32828,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:25f4e969-98a1-4898-8a9c-c73a6e5a0639": {
-      "certificate_digest": "640effab47187e247b140408187b625619ee16b1653cb44b991cd3634e518416",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "b32537b37ea471765e52d7da89505cf49bbb4179413af85ea9e6ef0cde0d1c69",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -33212,8 +33283,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:28bca5a8-0da3-4dfa-9163-76b4a35380a0": {
-      "certificate_digest": "0cc59be2aa349ac59ef7bf3d6f111f733407cbfc022f295b6f73684ee7fff080",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "92a753b4ee1f0e22a9a7c6bd2ccd2832e1a953bf8bc08dd3bdb5a8a8e5456f0b",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -33786,8 +33857,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:2ca6edcd-af0c-4006-b604-a709b6457b77": {
-      "certificate_digest": "c10c6cb607130513a02deddf38e21b88cc0b7d0fad38393c208f90705c5c4091",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "8eef6b6c465546eb8887fe55a6a2d8309e15cf070a19df50f564a4383fc10db4",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -34660,8 +34731,8 @@
       "verification_status": "MEDIUM"
     },
     "overture:33ca2535-a65c-433b-ac3d-14257b2e3ea9": {
-      "certificate_digest": "452e2c798f7213c89af4261d9a4e7d77f5463f0d3db6a3548d4c89c4e676fc83",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "a88660b7a2cd95cdaddc2645e0f3724f2e10f27a221c0c7675bef2b6cbce0cf7",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -38195,8 +38266,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:4ae2b6f5-ea17-4ae3-a5a8-6d91d4b8da1d": {
-      "certificate_digest": "5139b71054d18d4c0c65b866ce50407bffa2486a6c6a1a183cd908ecb4de4e52",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "854afe3fe1197ca37d548f9a79c54b7fb42eec5364551fc66f7ca364b9dc9f29",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -38328,8 +38399,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:4b97cb59-082f-4b8b-a930-4bbd0b1c2aa9": {
-      "certificate_digest": "61060063ec11600a28ebf79f87d2d917429498c3615d8ff34adaeba47b301436",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "49bfd300c411ae066f77d3775e1c2c96991c85462311d34ad4da36182ba63c22",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -38926,8 +38997,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:4fe61a57-fc69-41f5-89e5-ca351f42991d": {
-      "certificate_digest": "a1c410017381230b90f6211b0cc720c8395c0e4c40f5e744847fc4d46670bfac",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "90c2c821f5d8bae291e4d6a6aad133ca1777c01dd784593b75118b6bf822ca55",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -39513,8 +39584,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:53372c19-b3ba-4ff9-b13d-6cdc4e28f0b3": {
-      "certificate_digest": "47d501f8b47c819bd0b45badd24e66c960d519179ae42bd217c72966a82f46a2",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "0479de12919bcf0bdf6d935b5b734ddb302375d90b0f2a42a30ec1f49621922a",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -39595,8 +39666,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:53c3b3ac-3fb9-4ce7-bb5c-06b6eed045ec": {
-      "certificate_digest": "9da1241876192ae3c10688f12d43d6a8efcf4afa213267a2ec88ede49aeaa053",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "ccf1f9067c0f36a0f9daa426bda9086de5e6f1ee9d350f5bbbc34d4fd8bd4683",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -40044,8 +40115,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:56379211-c33a-45da-9953-4b8e719ab463": {
-      "certificate_digest": "fa099cd19639ba38165fed08bde234ec47de3a12af86ee243b4647dd99d68467",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "de3a87cad2debd29b2f879c63aa598b3fc81e71bb45cfa11e18a0e302f9440cf",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -40396,8 +40467,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:5886366a-434b-4ab5-bb89-574a0f56f000": {
-      "certificate_digest": "8c9cf0cc9bcfe4aba3a7c1edd6aa8b3f132c9aca593b1348d301776d55c516d9",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "7535a808b387962ca864412a9295594b188cdfb0983f8f263569b1f3b132668d",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -40879,8 +40950,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:5b2e84d2-0ec8-4bdc-a88f-e68784432ef3": {
-      "certificate_digest": "8c49feb0ecd214c696987e88a11fb12f98f0594f8c5409f5d8c535fb5e6ab450",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "af877555a0af4f44d066b2d68fe1083854111ab521c3d8fda764c01ee5a07133",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -41844,8 +41915,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:61782817-6174-4c30-8989-22da4aeb4ddf": {
-      "certificate_digest": "8d162346789769d01dbc5ad2ec7861c41e3edab0182d6c10a9d0ad7144d0ba93",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "af6683cfa9091c7663f29b5ba80e699c02442056d81cefe9860c36604605e2dd",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -42628,8 +42699,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:662bacd9-b6e5-4c11-be96-6f1728a27874": {
-      "certificate_digest": "ef82766370201ea4fc16a252f078e204f54cf374739b3391c665b3cd36c8fe0b",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "5637fd29f8501af046f5d94ec248032931d00ed3f70df78e81c4e2ba132cb8c0",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -44834,8 +44905,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:737a79cb-87b2-4e22-80af-80b2ac703887": {
-      "certificate_digest": "de2ab7b281587fd3b700cacff54c4ddcc569447a9134991f8f9f0539807fcaf3",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "63bacd181d07f918a68f4f43db7ebb7995b1cf4d688942f6a5f2c4a21a33722e",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -45417,8 +45488,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:76c61294-feec-4091-aec0-760dff9bc51f": {
-      "certificate_digest": "d7ccb60ae6ea1389a1d1fd93e5749b73155c81191297612e72ea8e6af66e10fd",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "bcf79d795ed543a926cd36385b5843f18a0e4fe65d9e9b143cd5caae5b2c0a47",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -46693,8 +46764,8 @@
       "verification_status": "HIGH"
     },
     "overture:7f0919d9-5519-4fd9-a5c2-8466ea991758": {
-      "certificate_digest": "9de06d44e3bcb8f829e3158b0557413a692dc478960d696605eb73b95d9bb29f",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "f1548ff73d636d5cb9ac6a1604b26dd2982711fb4c4cde8b74a3a981457c95e3",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -47137,8 +47208,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:8279a4c8-b197-4c5f-8202-44d59b7b976c": {
-      "certificate_digest": "7cef20352edd4b622c1b2f597517cbb916bfb5bd39c4065ef1858423de4318bd",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "26466ab1d68a938f537f651a0fc288ffd503611af9e31b071ae621ed58e83c3a",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -47637,8 +47708,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:854bc7da-a9b4-44b8-8428-c0aa5b053cd5": {
-      "certificate_digest": "38b2393462ea2cb1d953cb7ea524333ef3f6d324274e866e40da9e3b7ead154e",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "2fbdca547fb481e230afc65117e6e91695b6b28c70a8c91a0934aad087f76ac3",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -48877,8 +48948,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:8c7f3d30-5385-456a-a5f6-86d9e23640f7": {
-      "certificate_digest": "f561c164efaa7dbc7f3e867c5ebc66716a0d5588565523e264bf66fdb75faf98",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "5801274c3b24bdfea67d1f555b885eb5c00f6e52efe9d133aaf45dbde2da375b",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -49570,8 +49641,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:90205eba-0b2a-48e5-9158-4e680f33a77f": {
-      "certificate_digest": "c103b82d487206327fb568fc0481437c8898e72e832317aaea8276761296b83b",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "117aa907ff2f23f0a541688c80136b691d2b516bb96f2b7280b8b0dc10691c45",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -50327,8 +50398,8 @@
       "verification_status": "MEDIUM"
     },
     "overture:951b7ed9-3d11-404e-aee2-5c76f03bb04d": {
-      "certificate_digest": "6b29700573f82ee0141a22e36da9c8a19f86f8f8cc92fc63440ed9cfceb66046",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "965f0dd1f801f5b15537a4b488e16a0f315c7b11d76ddf6c6b45e267f49f6436",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -50409,8 +50480,8 @@
       "verification_status": "REJECT"
     },
     "overture:95e278d7-bcc3-4723-b964-c1a624d05c28": {
-      "certificate_digest": "7dab2fbefd47050299e810ada51bc54e1e41d53cd6edd0b6ecb1ebb86cf8ec0c",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "93b59b59c4c171b6a53d16706716e36a220d4d1d540d38d83ae8d1e05b9a92db",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -50460,8 +50531,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:96896d99-4fbb-4285-82b7-7a6606d7e888": {
-      "certificate_digest": "2eb1df0342456e4f90c358b2877cba5e9726b00377349549b69de2b0359822b0",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "df1e9a5e7a07a85044e5f26ee16831cf8971a77a1dbdf8bb83d6f89be58f87f5",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -50708,8 +50779,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:98876c22-a412-40ee-b4f4-f2c3de0fa4e8": {
-      "certificate_digest": "c3407319dc90594ae846103af00ea4d34d9dd7f4766acdab70fd0cdf2e4f8c57",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "18d812210290e56a93de6becd42fec8b44461c7a8258a1b8a455851b19df8d68",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -51140,8 +51211,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:9ae736c9-63cc-475a-9021-42d3717942a3": {
-      "certificate_digest": "309553e5990058672f4722094d3d5f4684b4313bbb87e5a355e3582c2eaf44d0",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "a3c4cb857dcf879285d60933e4a389d30f531e4bd0a795582edab8488fce3867",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -51800,8 +51871,8 @@
       "verification_status": "MEDIUM"
     },
     "overture:9e2518e0-22d0-4af5-b294-a25783d5a110": {
-      "certificate_digest": "37d87d509317ec37fd497ee71b0e6e017fe4ae802e3575bdfc6e3dc71f4f88de",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "f1ae0e84a18e24eeb03d483087896b55f7f305e63a3c0811a9410ca12ca97aa5",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -53805,8 +53876,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:ac12b7aa-0c2a-4802-b770-247577b713f5": {
-      "certificate_digest": "af278714c8abec679686bb3d2b61d465e7269204dacfe1de62f314f77727cfb6",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "b48c11a8ca5d1db2d3c8a66f706947f0fa808847bffbb8df9ef30e03d2b0f3c9",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -56881,8 +56952,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:bd744223-a56a-43d8-95c4-9ca026f89e56": {
-      "certificate_digest": "2b8fa2f925033c5aa0d0650eef01b155bdcbcbd6b55792742028851624e692fc",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "e969059ac92d35884cf82627c03c076d7bf59e039e73b9314b89a96fb7d66157",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -57461,8 +57532,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:c19cb02c-2215-4a77-9960-e9fb9a942650": {
-      "certificate_digest": "595cc5d356600a534c136edbbf9b69b5eff0bb43703c6751deb385625ce8f0c7",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "80d8b103a0920ebadffa81aa3a4e6c7ee57b5be8592288f3c31dacaeda730b2a",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -58229,8 +58300,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:c589b8d9-f40b-466a-9454-4d63a6616b99": {
-      "certificate_digest": "64f47855318c4688cb500cd1f0423393c43a1b3e2ccbb9ac68555209b9bbc2d4",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "66489a5e7312ef28dc535be97417e58c5e93dd12b74d739f7a40041c4fec3830",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -59617,8 +59688,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:cec297e7-3043-4f06-a6ac-7d72030ee9c1": {
-      "certificate_digest": "483052027bf9e85f9a2c17011d1787314726ba330af4e2b7ea6ad63ba7d11b77",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "ce6dc08874dd236c0542e012984023f2da77b9f2b98f6c29afb26f0d8481ff9d",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -61164,8 +61235,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:d80df300-715c-4c9e-bb1f-60f9b97c1317": {
-      "certificate_digest": "73afaadd585360b83ace1da7a66b714ac0b092c13ba87511d87326a2ba59dd65",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "083b0ec7c56b83d5f66fc8a4cf6086c75207fb9532bbfc2e2b7bae9641ec6961",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -61915,8 +61986,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:dd487afd-7767-4ec4-aea2-c78828d1ada6": {
-      "certificate_digest": "871b676fca403154b29a22a122ae8ebe622742a81ed6b59815f23ac538b8055e",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "8deb3b594b2067ae8e2817caf0d61c5948d1fed8a8238ff122d21fffb10f3e64",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -62419,8 +62490,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:dfa00d97-2640-4598-8e6e-637361e80948": {
-      "certificate_digest": "591abf30b93b0aa0d9e3336b44cc9351caadd8e3febfb49889aa7f521751ad7a",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "126129028608453d260f7354319fd9c3432b4341f1780959ac657d2e34561a5c",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -63361,8 +63432,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:e4ee681e-2e9a-4064-bcfd-6dc1443e8488": {
-      "certificate_digest": "1da35714c63ab1e4e9f5856b251274bc726aba9fa12b2ccfb57521bcb9e62da6",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "0b2d462bfadc73d6530241b1a05fa6e185d1d84b7e1cc6fd4196c3df9a277006",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -64287,8 +64358,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:e9915e73-1bcd-4878-8659-532f766d8b5c": {
-      "certificate_digest": "e250f98ad7489918421aef3b979df6c1c25420ed993dfb740735a32e48094dc2",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "11a3d5b1bcd81c2ca76841b6270a4384d522ee5e2b8770f59fb35c375d977c8b",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -64502,8 +64573,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:eacfb76c-ac35-432c-94f1-b324aa243b8f": {
-      "certificate_digest": "b40a08bc18efd28eb3acd3a70473b416f47b8bc966bef8a80c295e98c479e85e",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "fd7adcb8fd4ce49dfe1df9b7fd113a8d004737e20579b11e4118283e71785b73",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -65401,8 +65472,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:ef971ad0-25c7-46f2-aba8-132e7ac25a2b": {
-      "certificate_digest": "3514858d1fbfa846ee76c41acb4a5fc5e2bb217fdda1a516140388b659a36692",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "6d6335fe73ad5d1f0b48ec4a24ccf2c836475a6f07e631ac0bb37ebdd08ed9b9",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -65799,8 +65870,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:f169e517-3a52-41a9-b780-88786cee96ed": {
-      "certificate_digest": "c88a9e3e5601f0105e98d899015c7b5909e3537525b8b505ca1f69966d92a689",
-      "last_verified": "2026-08-25T09:53:47+00:00",
+      "certificate_digest": "538a58a82044d41dd47bdbd5a7e7d3422e9e81e560b67828e58fb4727bda24e3",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
@@ -67784,8 +67855,8 @@
       "verification_status": "UNCERTAIN"
     },
     "overture:fce10f3b-0b75-49a5-b55e-dfd991a1d112": {
-      "certificate_digest": "7a77b7bf86bfca85208c7122e143a40252711afa55a74cfc4292ca9c1dc18cc7",
-      "last_verified": "2026-08-25T10:34:30+00:00",
+      "certificate_digest": "92d18a7537347dd19a0d9b37638cdcee0a1fce18cd54da1268bc7ee48a4ed8f1",
+      "last_verified": "2026-08-25T11:01:57+00:00",
       "outcome": "REVIEW",
       "owned_website": "",
       "reason": "SEARCH_COVERAGE_INSUFFICIENT_PASS1",
