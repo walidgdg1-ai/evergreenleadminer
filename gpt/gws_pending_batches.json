@@ -459,7 +459,7 @@
       "records": 485,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 120,
+      "verification_remaining": 122,
       "verification_total": 485
     },
     {
@@ -910,7 +910,7 @@
       "records": 57,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 22,
+      "verification_remaining": 21,
       "verification_total": 57
     },
     {
@@ -954,7 +954,7 @@
       "records": 24,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 17,
+      "verification_remaining": 9,
       "verification_total": 24
     },
     {
@@ -964,9 +964,11 @@
       "provider": "github",
       "records": 114,
       "reviewed_at": null,
-      "status": "pending"
+      "status": "pending",
+      "verification_remaining": 106,
+      "verification_total": 114
     }
   ],
-  "pending_records": 2223,
+  "pending_records": 2208,
   "schema_version": 1
 }
