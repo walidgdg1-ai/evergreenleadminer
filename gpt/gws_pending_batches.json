@@ -393,7 +393,7 @@
       "records": 106,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 6,
+      "verification_remaining": 23,
       "verification_total": 106
     },
     {
@@ -832,9 +832,11 @@
       "provider": "github",
       "records": 25,
       "reviewed_at": null,
-      "status": "pending"
+      "status": "pending",
+      "verification_remaining": 15,
+      "verification_total": 25
     }
   ],
-  "pending_records": 1878,
+  "pending_records": 1885,
   "schema_version": 1
 }
