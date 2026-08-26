@@ -338,7 +338,7 @@
       "records": 55,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 23,
+      "verification_remaining": 25,
       "verification_total": 55
     },
     {
@@ -459,7 +459,7 @@
       "records": 485,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 119,
+      "verification_remaining": 118,
       "verification_total": 485
     },
     {
@@ -470,7 +470,7 @@
       "records": 232,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 58,
+      "verification_remaining": 59,
       "verification_total": 232
     },
     {
@@ -481,7 +481,7 @@
       "records": 37,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 22,
+      "verification_remaining": 20,
       "verification_total": 37
     },
     {
@@ -492,7 +492,7 @@
       "records": 50,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 7,
+      "verification_remaining": 8,
       "verification_total": 50
     },
     {
@@ -503,7 +503,7 @@
       "records": 4,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 2,
+      "verification_remaining": 1,
       "verification_total": 4
     },
     {
@@ -514,7 +514,7 @@
       "records": 3,
       "reviewed_at": "2026-08-25T09:05:51+00:00",
       "status": "verified_search_pass",
-      "verification_remaining": 2,
+      "verification_remaining": 3,
       "verification_total": 3
     },
     {
@@ -525,7 +525,7 @@
       "records": 333,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 88,
+      "verification_remaining": 80,
       "verification_total": 333
     },
     {
@@ -536,7 +536,7 @@
       "records": 33,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 17,
+      "verification_remaining": 22,
       "verification_total": 33
     },
     {
@@ -547,7 +547,7 @@
       "records": 28,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 17,
+      "verification_remaining": 16,
       "verification_total": 28
     },
     {
@@ -767,7 +767,7 @@
       "records": 123,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 41,
+      "verification_remaining": 46,
       "verification_total": 123
     },
     {
@@ -778,7 +778,7 @@
       "records": 20,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 6,
+      "verification_remaining": 8,
       "verification_total": 20
     },
     {
@@ -921,7 +921,7 @@
       "records": 37,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 24,
+      "verification_remaining": 23,
       "verification_total": 37
     },
     {
@@ -943,7 +943,7 @@
       "records": 47,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 28,
+      "verification_remaining": 27,
       "verification_total": 47
     },
     {
@@ -965,7 +965,7 @@
       "records": 114,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 57,
+      "verification_remaining": 54,
       "verification_total": 114
     },
     {
@@ -975,9 +975,11 @@
       "provider": "github",
       "records": 42,
       "reviewed_at": null,
-      "status": "pending"
+      "status": "pending",
+      "verification_remaining": 16,
+      "verification_total": 42
     }
   ],
-  "pending_records": 2237,
+  "pending_records": 2210,
   "schema_version": 1
 }
