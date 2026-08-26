@@ -459,7 +459,7 @@
       "records": 485,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 121,
+      "verification_remaining": 119,
       "verification_total": 485
     },
     {
@@ -470,7 +470,7 @@
       "records": 232,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 53,
+      "verification_remaining": 56,
       "verification_total": 232
     },
     {
@@ -481,7 +481,7 @@
       "records": 37,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 17,
+      "verification_remaining": 18,
       "verification_total": 37
     },
     {
@@ -492,7 +492,7 @@
       "records": 50,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 8,
+      "verification_remaining": 7,
       "verification_total": 50
     },
     {
@@ -503,7 +503,7 @@
       "records": 4,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 1,
+      "verification_remaining": 2,
       "verification_total": 4
     },
     {
@@ -514,7 +514,7 @@
       "records": 3,
       "reviewed_at": "2026-08-25T09:05:51+00:00",
       "status": "verified_search_pass",
-      "verification_remaining": 3,
+      "verification_remaining": 2,
       "verification_total": 3
     },
     {
@@ -910,7 +910,7 @@
       "records": 57,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 27,
+      "verification_remaining": 28,
       "verification_total": 57
     },
     {
@@ -921,7 +921,7 @@
       "records": 37,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 21,
+      "verification_remaining": 17,
       "verification_total": 37
     },
     {
@@ -932,7 +932,7 @@
       "records": 65,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 27,
+      "verification_remaining": 42,
       "verification_total": 65
     },
     {
@@ -942,9 +942,11 @@
       "provider": "github",
       "records": 47,
       "reviewed_at": null,
-      "status": "pending"
+      "status": "pending",
+      "verification_remaining": 17,
+      "verification_total": 47
     }
   ],
-  "pending_records": 2109,
+  "pending_records": 2092,
   "schema_version": 1
 }
