@@ -1,13 +1,13 @@
 {
-  "at": "2026-08-27T20:29:58+00:00",
-  "attempted": 105,
+  "at": "2026-08-27T21:00:51+00:00",
+  "attempted": 90,
   "canonical_high_persisted_here": 0,
   "note": "HIGH is pre-canonical. Explicit public/non-business source categories are rejected before HIGH persistence. Quarantined-run HIGHs are forced non-terminal. Semantic/Qwen is shadow-only.",
-  "ownership_rejects_quarantined": 1,
-  "ready_for_canonical_review": 11,
-  "rejected_owned_or_other": 0,
-  "remaining_source_backlog": 1958,
-  "retryable": 94,
+  "ownership_rejects_quarantined": 0,
+  "ready_for_canonical_review": 13,
+  "rejected_owned_or_other": 1,
+  "remaining_source_backlog": 1966,
+  "retryable": 76,
   "run_highs_quarantined_for_reverify": 0,
   "schema_version": 5,
   "scope_nonbusiness_rejected": 0,
@@ -15,6 +15,6 @@
   "semantic_resolution_attempted": 0,
   "semantic_resolution_resolved": 0,
   "semantic_resolution_retryable": 0,
-  "strict_high_verified_no_website": 0,
+  "strict_high_verified_no_website": 2,
   "strict_run_quarantine_id": ""
 }
