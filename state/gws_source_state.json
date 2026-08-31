@@ -3,29 +3,29 @@
   "sources": {
     "hub_brussels": {
       "api_total": 7174,
-      "last_changed": "2026-08-31T06:32:31+00:00",
-      "last_seen": "2026-08-31T14:00:35+00:00",
+      "last_changed": "2026-08-31T14:59:01+00:00",
+      "last_seen": "2026-08-31T14:59:01+00:00",
       "materialized": 7174,
-      "persisted_snapshot": "data/gws/source/hub_brussels_20260831T063230Z_2efdfd7fb165.jsonl.gz",
-      "sha256": "2efdfd7fb1655d97f5263c1b24a7b5edea3ac891c74babd3137ae81033121678"
+      "persisted_snapshot": "data/gws/source/hub_brussels_20260831T145901Z_34b0dc04a4e2.jsonl.gz",
+      "sha256": "34b0dc04a4e2e51752de209c75972cacab7232201579c5e741ab77cd84076d33"
     },
     "osm_brussels": {
       "cross_source_duplicates": 0,
       "error": "",
       "last_changed": "2026-08-14T23:57:53+00:00",
       "last_fetched": "2026-08-31T13:46:47+00:00",
-      "last_seen": "2026-08-31T14:00:34+00:00",
+      "last_seen": "2026-08-31T14:59:00+00:00",
       "materialized": 0,
       "osm_unique_after_hub_dedupe": 0,
       "persisted_snapshot": "data/gws/source/osm_brussels_20260814T235753Z_e3b0c44298fc.jsonl.gz",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "status": "fresh"
+      "status": "cache"
     },
     "overture_direct": {
       "error": "IOException: IO Error: No files found that match the pattern \"s3://overturemaps-us-west-2/release/2026-06-17.0/theme=places/type=place/*\"\n\nLINE 6:       FROM read_parquet('s3://overturemaps-us-west-2/release/2026-06...\n                   ^",
       "last_changed": "2026-08-17T07:46:28+00:00",
       "last_fetched": "2026-08-17T13:46:22+00:00",
-      "last_seen": "2026-08-31T14:00:34+00:00",
+      "last_seen": "2026-08-31T14:59:00+00:00",
       "materialized": 0,
       "overture_unique_after_cross_dedupe": 0,
       "persisted_snapshot": "data/gws/source/overture_direct_20260817T074627Z_7504aeb34f05.jsonl.gz",
