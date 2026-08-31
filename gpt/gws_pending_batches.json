@@ -151,7 +151,7 @@
       "records": 230,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 60,
+      "verification_remaining": 61,
       "verification_total": 230
     },
     {
@@ -1150,8 +1150,10 @@
       "fleet_run_id": "33406006898-1",
       "provider": "github",
       "records": 1,
-      "reviewed_at": null,
-      "status": "pending"
+      "reviewed_at": "2026-08-31T15:44:34+00:00",
+      "status": "verified_search_pass",
+      "verification_remaining": 0,
+      "verification_total": 1
     }
   ],
   "pending_records": 1670,
