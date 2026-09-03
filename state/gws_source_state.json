@@ -3,18 +3,18 @@
   "sources": {
     "hub_brussels": {
       "api_total": 6880,
-      "last_changed": "2026-09-03T19:04:07+00:00",
-      "last_seen": "2026-09-03T19:04:07+00:00",
+      "last_changed": "2026-09-03T19:38:06+00:00",
+      "last_seen": "2026-09-03T19:38:06+00:00",
       "materialized": 6880,
-      "persisted_snapshot": "data/gws/source/hub_brussels_20260903T190406Z_7237e8b935cb.jsonl.gz",
-      "sha256": "7237e8b935cb8a52ce4dbc2de8d0222f17e04b36d0fcbd7d8149fdcff1b766cd"
+      "persisted_snapshot": "data/gws/source/hub_brussels_20260903T193805Z_012c1fc42d4f.jsonl.gz",
+      "sha256": "012c1fc42d4f2af97f0ab96a4e18d602478dbdccd744c344b63714de06f14ae2"
     },
     "osm_brussels": {
       "cross_source_duplicates": 0,
       "error": "",
       "last_changed": "2026-08-14T23:57:53+00:00",
       "last_fetched": "2026-09-03T18:13:17+00:00",
-      "last_seen": "2026-09-03T19:04:06+00:00",
+      "last_seen": "2026-09-03T19:38:05+00:00",
       "materialized": 0,
       "osm_unique_after_hub_dedupe": 0,
       "persisted_snapshot": "data/gws/source/osm_brussels_20260814T235753Z_e3b0c44298fc.jsonl.gz",
@@ -25,7 +25,7 @@
       "error": "IOException: IO Error: No files found that match the pattern \"s3://overturemaps-us-west-2/release/2026-06-17.0/theme=places/type=place/*\"\n\nLINE 6:       FROM read_parquet('s3://overturemaps-us-west-2/release/2026-06...\n                   ^",
       "last_changed": "2026-08-17T07:46:28+00:00",
       "last_fetched": "2026-08-17T13:46:22+00:00",
-      "last_seen": "2026-09-03T19:04:06+00:00",
+      "last_seen": "2026-09-03T19:38:05+00:00",
       "materialized": 0,
       "overture_unique_after_cross_dedupe": 0,
       "persisted_snapshot": "data/gws/source/overture_direct_20260817T074627Z_7504aeb34f05.jsonl.gz",
