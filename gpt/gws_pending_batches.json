@@ -140,7 +140,7 @@
       "records": 170,
       "reviewed_at": "2026-09-01T11:01:16+00:00",
       "status": "verified_search_pass",
-      "verification_remaining": 0,
+      "verification_remaining": 2,
       "verification_total": 170
     },
     {
@@ -1294,9 +1294,11 @@
       "provider": "github",
       "records": 7,
       "reviewed_at": null,
-      "status": "pending"
+      "status": "pending",
+      "verification_remaining": 1,
+      "verification_total": 7
     }
   ],
-  "pending_records": 2124,
+  "pending_records": 2120,
   "schema_version": 1
 }
