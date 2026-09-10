@@ -1385,8 +1385,17 @@
       "status": "verified_search_pass",
       "verification_remaining": 1,
       "verification_total": 2
+    },
+    {
+      "batch": "gpt/gws_review/2026-09-10T112303Z_34465010026-1.jsonl",
+      "created_at": "2026-09-10T11:23:03+00:00",
+      "fleet_run_id": "34465010026-1",
+      "provider": "github",
+      "records": 42,
+      "reviewed_at": null,
+      "status": "pending"
     }
   ],
-  "pending_records": 2167,
+  "pending_records": 2209,
   "schema_version": 1
 }
