@@ -327,7 +327,7 @@
       "records": 850,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 269,
+      "verification_remaining": 272,
       "verification_total": 850
     },
     {
@@ -338,7 +338,7 @@
       "records": 55,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 18,
+      "verification_remaining": 17,
       "verification_total": 55
     },
     {
@@ -547,7 +547,7 @@
       "records": 28,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 21,
+      "verification_remaining": 20,
       "verification_total": 28
     },
     {
@@ -976,7 +976,7 @@
       "records": 42,
       "reviewed_at": "2026-08-28T14:52:46+00:00",
       "status": "verified_search_pass",
-      "verification_remaining": 35,
+      "verification_remaining": 34,
       "verification_total": 42
     },
     {
@@ -1031,7 +1031,7 @@
       "records": 27,
       "reviewed_at": "2026-08-27T23:15:00+00:00",
       "status": "verified_search_pass",
-      "verification_remaining": 21,
+      "verification_remaining": 20,
       "verification_total": 27
     },
     {
@@ -1053,7 +1053,7 @@
       "records": 21,
       "reviewed_at": "2026-08-27T20:29:58+00:00",
       "status": "verified_search_pass",
-      "verification_remaining": 15,
+      "verification_remaining": 14,
       "verification_total": 21
     },
     {
@@ -1064,7 +1064,7 @@
       "records": 22,
       "reviewed_at": "2026-08-27T14:20:43+00:00",
       "status": "verified_search_pass",
-      "verification_remaining": 16,
+      "verification_remaining": 18,
       "verification_total": 22
     },
     {
@@ -1163,7 +1163,7 @@
       "records": 404,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 34,
+      "verification_remaining": 37,
       "verification_total": 404
     },
     {
@@ -1229,7 +1229,7 @@
       "records": 211,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 39,
+      "verification_remaining": 33,
       "verification_total": 211
     },
     {
@@ -1240,7 +1240,7 @@
       "records": 37,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 18,
+      "verification_remaining": 23,
       "verification_total": 37
     },
     {
@@ -1339,7 +1339,7 @@
       "records": 57,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 16,
+      "verification_remaining": 15,
       "verification_total": 57
     },
     {
@@ -1403,10 +1403,12 @@
       "fleet_run_id": "34469891663-1",
       "provider": "github",
       "records": 16,
-      "reviewed_at": null,
-      "status": "pending"
+      "reviewed_at": "2026-09-10T13:09:00+00:00",
+      "status": "verified_search_pass",
+      "verification_remaining": 0,
+      "verification_total": 16
     }
   ],
-  "pending_records": 2220,
+  "pending_records": 2205,
   "schema_version": 1
 }
