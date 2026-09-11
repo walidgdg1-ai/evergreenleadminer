@@ -2,15 +2,15 @@
   "autoscaling": {
     "after": 10,
     "before": 10,
-    "reason": "hold_marginal_throughput"
+    "reason": "hold"
   },
   "coverage_delta": {
     "tasks_completed": 6,
     "tasks_failed_or_missing": 0
   },
-  "duplicates": 15,
+  "duplicates": 16,
   "errors": 0,
-  "gpt_review_added": 1,
+  "gpt_review_added": 0,
   "gpt_review_pending": 2214,
   "new_unique": 0,
   "next_backlog": 21,
@@ -26,10 +26,10 @@
   },
   "qualified_for_strict_review": 6,
   "raw_discovered": 16,
-  "review_batch": "gpt/gws_review/2026-09-11T143222Z_34608162088-1.jsonl",
-  "run_id": "34608162088-1",
+  "review_batch": null,
+  "run_id": "34609421163-1",
   "schema_version": 1,
   "status": "CYCLE_COMPLETE",
   "uncertain": 5,
-  "updated_at": "2026-09-11T14:32:22+00:00"
+  "updated_at": "2026-09-11T15:01:17+00:00"
 }
