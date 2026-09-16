@@ -2,34 +2,34 @@
   "autoscaling": {
     "after": 10,
     "before": 10,
-    "reason": "hold"
+    "reason": "hold_marginal_throughput"
   },
   "coverage_delta": {
     "tasks_completed": 4,
     "tasks_failed_or_missing": 0
   },
-  "duplicates": 0,
+  "duplicates": 74,
   "errors": 0,
-  "gpt_review_added": 0,
-  "gpt_review_pending": 2275,
+  "gpt_review_added": 20,
+  "gpt_review_pending": 2295,
   "new_unique": 0,
-  "next_backlog": 0,
-  "owned_site_or_chain_rejects": 0,
+  "next_backlog": 1,
+  "owned_site_or_chain_rejects": 29,
   "provider": "github",
   "provider_usage": {
     "github": {
       "active_observed_before": 0,
-      "limit": 5,
+      "limit": 4,
       "queued_observed_before": 0,
       "selected_workers": 4
     }
   },
-  "qualified_for_strict_review": 0,
-  "raw_discovered": 0,
-  "review_batch": null,
-  "run_id": "35066844199-1",
+  "qualified_for_strict_review": 66,
+  "raw_discovered": 95,
+  "review_batch": "gpt/gws_review/2026-09-16T121818Z_35090706068-1.jsonl",
+  "run_id": "35090706068-1",
   "schema_version": 1,
   "status": "CYCLE_COMPLETE",
-  "uncertain": 0,
-  "updated_at": "2026-09-16T07:29:52+00:00"
+  "uncertain": 35,
+  "updated_at": "2026-09-16T12:18:18+00:00"
 }
