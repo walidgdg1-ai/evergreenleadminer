@@ -3,18 +3,18 @@
   "sources": {
     "hub_brussels": {
       "api_total": 6880,
-      "last_changed": "2026-09-20T06:24:27+00:00",
-      "last_seen": "2026-09-20T06:24:27+00:00",
+      "last_changed": "2026-09-20T07:01:34+00:00",
+      "last_seen": "2026-09-20T07:01:34+00:00",
       "materialized": 6880,
-      "persisted_snapshot": "data/gws/source/hub_brussels_20260920T062427Z_c17549e8eb47.jsonl.gz",
-      "sha256": "c17549e8eb47921fbdd61af7d560053fc16d19a00b6af0ac3b20ec4d74fc8958"
+      "persisted_snapshot": "data/gws/source/hub_brussels_20260920T070134Z_a87e9f23b430.jsonl.gz",
+      "sha256": "a87e9f23b430bd678352945c8c459215a71a3626cc0e3b48ab64d0dfa51b42d7"
     },
     "osm_brussels": {
       "cross_source_duplicates": 0,
       "error": "",
       "last_changed": "2026-08-14T23:57:53+00:00",
       "last_fetched": "2026-09-20T05:33:55+00:00",
-      "last_seen": "2026-09-20T06:24:27+00:00",
+      "last_seen": "2026-09-20T07:01:33+00:00",
       "materialized": 0,
       "osm_unique_after_hub_dedupe": 0,
       "persisted_snapshot": "data/gws/source/osm_brussels_20260814T235753Z_e3b0c44298fc.jsonl.gz",
@@ -25,7 +25,7 @@
       "error": "IOException: IO Error: No files found that match the pattern \"s3://overturemaps-us-west-2/release/2026-06-17.0/theme=places/type=place/*\"\n\nLINE 6:       FROM read_parquet('s3://overturemaps-us-west-2/release/2026-06...\n                   ^",
       "last_changed": "2026-08-17T07:46:28+00:00",
       "last_fetched": "2026-08-17T13:46:22+00:00",
-      "last_seen": "2026-09-20T06:24:27+00:00",
+      "last_seen": "2026-09-20T07:01:34+00:00",
       "materialized": 0,
       "overture_unique_after_cross_dedupe": 0,
       "persisted_snapshot": "data/gws/source/overture_direct_20260817T074627Z_7504aeb34f05.jsonl.gz",
