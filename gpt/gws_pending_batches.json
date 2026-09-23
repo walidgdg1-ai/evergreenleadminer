@@ -1570,7 +1570,7 @@
       "records": 60,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 5,
+      "verification_remaining": 3,
       "verification_total": 60
     },
     {
@@ -1580,9 +1580,11 @@
       "provider": "github",
       "records": 35,
       "reviewed_at": null,
-      "status": "pending"
+      "status": "pending",
+      "verification_remaining": 33,
+      "verification_total": 35
     }
   ],
-  "pending_records": 2417,
+  "pending_records": 2413,
   "schema_version": 1
 }
