@@ -1944,10 +1944,10 @@
     },
     "gws_brussels_no_website::Etterbeek::wellness_optical": {
       "family": "wellness_optical",
-      "last_attempt": "2026-09-25T23:18:42+00:00",
-      "last_elapsed_seconds": 2.285,
+      "last_attempt": "2026-09-25T23:49:33+00:00",
+      "last_elapsed_seconds": 2.196,
       "last_error": "BinderException: Binder Error: Referenced table \"categories\" not found!\nCandidate tables: \"read_parquet\"\n\nLINE 2:       SELECT id, names.primary AS name, basic_category, categories.primary AS category_primary,\n                                                                ^",
-      "last_lease_id": "github-77f88b9d309c4d50",
+      "last_lease_id": "github-18fb868d8cbb4f8f",
       "last_net_new": 0,
       "last_net_new_per_minute": 0.0,
       "last_records_materialized": 0,
