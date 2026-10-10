@@ -635,7 +635,7 @@
       "records": 84,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 4,
+      "verification_remaining": 2,
       "verification_total": 84
     },
     {
@@ -1163,7 +1163,7 @@
       "records": 404,
       "reviewed_at": null,
       "status": "pending",
-      "verification_remaining": 20,
+      "verification_remaining": 19,
       "verification_total": 404
     },
     {
@@ -1469,9 +1469,9 @@
       "fleet_run_id": "35030007281-1",
       "provider": "github",
       "records": 47,
-      "reviewed_at": null,
-      "status": "pending",
-      "verification_remaining": 1,
+      "reviewed_at": "2026-10-10T00:12:58+00:00",
+      "status": "verified_search_pass",
+      "verification_remaining": 0,
       "verification_total": 47
     },
     {
@@ -1596,6 +1596,6 @@
       "verification_total": 9
     }
   ],
-  "pending_records": 2377,
+  "pending_records": 2373,
   "schema_version": 1
 }
