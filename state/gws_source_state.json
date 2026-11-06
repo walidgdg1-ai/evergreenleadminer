@@ -3,29 +3,29 @@
   "sources": {
     "hub_brussels": {
       "api_total": 6880,
-      "last_changed": "2026-11-06T14:04:47+00:00",
-      "last_seen": "2026-11-06T14:04:47+00:00",
+      "last_changed": "2026-11-06T18:59:40+00:00",
+      "last_seen": "2026-11-06T18:59:40+00:00",
       "materialized": 6880,
-      "persisted_snapshot": "data/gws/source/hub_brussels_20261106T140447Z_2f13ad5127e2.jsonl.gz",
-      "sha256": "2f13ad5127e2c58c4d50619f0dcfbbaf8268af944357ef85b403a8b275c08fa6"
+      "persisted_snapshot": "data/gws/source/hub_brussels_20261106T185940Z_6a4977a26793.jsonl.gz",
+      "sha256": "6a4977a26793dd38d2a3bd8d0dcb1534bf0c20481aa61db9692f19a7083b853b"
     },
     "osm_brussels": {
       "cross_source_duplicates": 0,
       "error": "",
       "last_changed": "2026-08-14T23:57:53+00:00",
-      "last_fetched": "2026-11-06T10:05:37+00:00",
-      "last_seen": "2026-11-06T14:04:46+00:00",
+      "last_fetched": "2026-11-06T18:39:59+00:00",
+      "last_seen": "2026-11-06T18:59:39+00:00",
       "materialized": 0,
       "osm_unique_after_hub_dedupe": 0,
       "persisted_snapshot": "data/gws/source/osm_brussels_20260814T235753Z_e3b0c44298fc.jsonl.gz",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "status": "cache"
+      "status": "fresh"
     },
     "overture_direct": {
       "error": "IOException: IO Error: No files found that match the pattern \"s3://overturemaps-us-west-2/release/2026-06-17.0/theme=places/type=place/*\"\n\nLINE 5:       FROM read_parquet('s3://overturemaps-us-west-2/release/2026-06-17.0...\n                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
       "last_changed": "2026-08-17T07:46:28+00:00",
       "last_fetched": "2026-08-17T13:46:22+00:00",
-      "last_seen": "2026-11-06T14:04:47+00:00",
+      "last_seen": "2026-11-06T18:59:39+00:00",
       "materialized": 0,
       "overture_unique_after_cross_dedupe": 0,
       "persisted_snapshot": "data/gws/source/overture_direct_20260817T074627Z_7504aeb34f05.jsonl.gz",
