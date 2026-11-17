@@ -3,18 +3,18 @@
   "sources": {
     "hub_brussels": {
       "api_total": 6880,
-      "last_changed": "2026-11-17T08:40:09+00:00",
-      "last_seen": "2026-11-17T08:40:09+00:00",
+      "last_changed": "2026-11-17T09:28:44+00:00",
+      "last_seen": "2026-11-17T09:28:44+00:00",
       "materialized": 6880,
-      "persisted_snapshot": "data/gws/source/hub_brussels_20261117T084009Z_b0e803993c90.jsonl.gz",
-      "sha256": "b0e803993c90cc0d09d4a68009a9b168233a874e6c4fd9492a3a55e282f85a51"
+      "persisted_snapshot": "data/gws/source/hub_brussels_20261117T092844Z_30d39989f894.jsonl.gz",
+      "sha256": "30d39989f894a4bd6fb254f3e69318b2cf4c2181ff6fd732fcb2b9b00fbe4975"
     },
     "osm_brussels": {
       "cross_source_duplicates": 0,
-      "error": "RuntimeError: Overpass discovery failed: https://overpass-api.de/api/interpreter:attempt=1:URLError:<urlopen error [Errno 101] Network is unreachable> | https://overpass-api.de/api/interpreter:attempt=2:URLError:<urlopen error [Errno 101] Network is unreachable> | https://overpass-api.de/api/interpreter:attempt=3:URLError:<urlopen error [Errno 101] Network is unreachable> | https://overpass.private.coffee/api/interpreter:attempt=1:TimeoutError:The read operation timed out | https://overpass.private.coffee/api/interpreter:attempt=2:TimeoutError:The read operation timed out | https://overpass.private.coffee/api/interpreter:attempt=3:TimeoutError:The read operation timed out",
+      "error": "RuntimeError: Overpass discovery failed: https://overpass-api.de/api/interpreter:attempt=1:HTTPError:HTTP Error 502: Bad Gateway | https://overpass-api.de/api/interpreter:attempt=2:HTTPError:HTTP Error 502: Bad Gateway | https://overpass-api.de/api/interpreter:attempt=3:HTTPError:HTTP Error 502: Bad Gateway | https://overpass.private.coffee/api/interpreter:attempt=1:HTTPError:HTTP Error 504: Gateway Timeout | https://overpass.private.coffee/api/interpreter:attempt=2:TimeoutError:The read operation timed out | https://overpass.private.coffee/api/interpreter:attempt=3:TimeoutError:The read operation timed out",
       "last_changed": "2026-08-14T23:57:53+00:00",
       "last_fetched": "2026-11-16T23:44:26+00:00",
-      "last_seen": "2026-11-17T08:40:09+00:00",
+      "last_seen": "2026-11-17T09:28:43+00:00",
       "materialized": 0,
       "osm_unique_after_hub_dedupe": 0,
       "persisted_snapshot": "data/gws/source/osm_brussels_20260814T235753Z_e3b0c44298fc.jsonl.gz",
@@ -25,7 +25,7 @@
       "error": "IOException: IO Error: No files found that match the pattern \"s3://overturemaps-us-west-2/release/2026-06-17.0/theme=places/type=place/*\"\n\nLINE 5:       FROM read_parquet('s3://overturemaps-us-west-2/release/2026-06-17.0...\n                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
       "last_changed": "2026-08-17T07:46:28+00:00",
       "last_fetched": "2026-08-17T13:46:22+00:00",
-      "last_seen": "2026-11-17T08:40:09+00:00",
+      "last_seen": "2026-11-17T09:28:44+00:00",
       "materialized": 0,
       "overture_unique_after_cross_dedupe": 0,
       "persisted_snapshot": "data/gws/source/overture_direct_20260817T074627Z_7504aeb34f05.jsonl.gz",
